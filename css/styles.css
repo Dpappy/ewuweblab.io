@@ -1,0 +1,80 @@
+/* Global */
+<<<<<<< HEAD
+ body {
+      background: gray;
+ }
+
+img {
+  width : 50%;
+}
+
+
+/* Layout */
+
+
+/* Typography */
+h1 {
+    color: lemonchiffon;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+p {
+    background: red;
+    border: 10px double black;
+    padding: 20px;
+    width: 200px;
+}
+
+
+/* Navigation */
+a {
+    background: red;
+    text-decoration: none;
+    
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+li {
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+=======
+body {
+  background: #8888B9;
+}
+
+img { 
+    width : 50%;
+}
+
+/* Layout */
+
+
+/* Typography */
+
+
+
+/* Navigation */
+a {
+    background: red;
+    border-radius: 20px;
+    display: block;
+    height: 50px;
+    width: 100px;
+}
+
+li {
+    display: inline-block;
+}
+>>>>>>> origin/master
