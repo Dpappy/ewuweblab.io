@@ -24,6 +24,9 @@ img {
 }
 
 /* Layout */
+header {position:fixed;
+width: 100%;
+background: gray;}
 
 main{
   background: none;
@@ -66,12 +69,13 @@ h1 {
     letter-spacing: 4px;
     text-align:left;
     font-size:3em;
+    float: top;
 }
 
 p {
     background: none;
     border: none;
-    padding: 20px;
+    padding: 100px;
     width: 200px;
 }
 
