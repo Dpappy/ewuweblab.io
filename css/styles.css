@@ -24,9 +24,6 @@ img {
 }
 
 /* Layout */
-header {position:fixed;
-width: 100%;
-background: gray;}
 
 main{
   background: none;
@@ -69,13 +66,12 @@ h1 {
     letter-spacing: 4px;
     text-align:left;
     font-size:3em;
-    float: top;
 }
 
 p {
     background: none;
     border: none;
-    padding: 100px;
+    padding: 20px;
     width: 200px;
 }
 
@@ -109,10 +105,8 @@ a:hover {
   background: -webkit: 
 }
 body {
-  background: -webkit-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* IE10 */
-  background:      -o-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* W3C */
+  background-image: url("../img/blueBrains.jpg");
+    background-size: 1400px 800px;
+    background-repeat: no-repeat;
         }
 }
